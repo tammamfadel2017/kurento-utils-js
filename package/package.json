@@ -28,7 +28,7 @@
     "email": "kurento@googlegroups.com"
   },
   "license": "Apache-2.0",
-  "author": "Kurento <openvidu@gmail.com> (https://www.kurento.org)",
+  
   "contributors": [
     "Kurento Community <openvidu@gmail.com> (https://www.kurento.org)"
   ],
@@ -42,7 +42,6 @@
     "test": "scripts/test"
   },
   "dependencies": {
-    "amazon-cognito-auth-js": "^1.1.3",
     "freeice": "^2.1.2",
     "hark": "1.1.3",
     "inherits": "^2.0.1",
